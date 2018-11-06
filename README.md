@@ -1,6 +1,6 @@
 # CRUD-API
-This a Lib. build to do basic crud Operations with nothing more than Node JS. The API allows you to create tokens and users to save with CRUD operations to any database.You can Create Users, and Manage tokens all with this API.No Packages, Only Native Node.Passwords are hashed with SHA 256 Encryption.Built in API With Https and Http Test Servers.No Need to Install anything just clone the repo CD into CRUD-API and Run Node Index.js.  Can Be installed through NPM as Lib.  Build with Simplicity,Speed, and security in mind.To Run File Cd into Index.js Directory and run "node index.js". This Will Start Server, With Options for Http/ and Https. Can Create Users, Tokens and  store users and Data from API. Request Routes Below. 
-Data Is converted to JSON for File Saving and transfer. 
+This a Lib. build to do basic crud Operations with nothing more than Node JS. The API allows you to create tokens and users to save with CRUD operations to any database.You can Create Users, and Manage tokens all with this API.No Packages, Only Native Node.Passwords are hashed with SHA 256 Encryption.Built in API with https and http test servers.No need to install anything just clone the repo CD into CRUD-API and Run Node Index.js.  Can be installed through NPM as Lib.  Build with simplicity,speed, and security in mind.To run file cd into index.js directory and run "node index.js". This will start Server, With options for Http/ and Https. can create users, tokens and  store users and Data from API. Request Routes Below. 
+Data Is converted to JSON for file saving and transfer. 
 
 
 
